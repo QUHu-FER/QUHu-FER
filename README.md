@@ -53,6 +53,21 @@
 
 ---
 
+### Crypto & Web3 Tech 🪙
+<!-- Crypto Logos -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Bitcoin-F7931A?style=for-the-badge&logo=bitcoin&logoColor=white" alt="Bitcoin"/>
+  <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white" alt="Ethereum"/>
+  <img src="https://img.shields.io/badge/WalletConnect-3396FF?style=for-the-badge&logo=walletconnect&logoColor=white" alt="WalletConnect"/>
+  <img src="https://img.shields.io/badge/Solana-6E4BFF?style=for-the-badge&logo=solana&logoColor=white" alt="Solana"/> <!-- warna ungu -->
+  <img src="https://img.shields.io/badge/Sui-007BFF?style=for-the-badge&logo=sui&logoColor=white" alt="Sui"/>         <!-- warna biru -->
+  <img src="https://img.shields.io/badge/TON-00B2FF?style=for-the-badge&logo=ton&logoColor=white" alt="TON"/>
+</p>
+
+
+
+---
+
 ### 🔗 Connect With Me
 
 <p align="center">
